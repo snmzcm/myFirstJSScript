@@ -1,5 +1,6 @@
 # My First JS Script ever
-Somehow I convinced myself to have some love for JavaScript and give it a try. Here is my first JS Script which calculates a number's parity. 
+Somehow I convinced myself to have some love for JavaScript and give it a try along with NodeJS . Here is my first JS Script which calculates a number's parity.
+
 
 ##  Usage
 
